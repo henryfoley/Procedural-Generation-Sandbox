@@ -73,3 +73,4 @@ Plugins/**/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 Content/Megascans/*
+Content/__ExternalActors__/LevelInstances/*
