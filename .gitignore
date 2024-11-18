@@ -74,3 +74,4 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 Content/Megascans/*
 Content/__ExternalActors__/LevelInstances/*
+Content/DynamicVolumetricSky/*
